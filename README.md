@@ -22,3 +22,10 @@ Concernant le PIB, une première approche a été faite, une approche mondiale. 
 Pour l'évolution du CO2, deux modèles existent. Tahar fera des recherches plus approfondies chez lui.
 
 Pour l'évolution de l'énergie, nous avons trouvé un tableau donnnant toutes les valeurs pour chaque région de l'énergie consommée. Etant donné l'absence de modèle accessible pour modéliser ce paramètre, nous avons convenu qu'il fallait programmer un modèle de régression linéaire sur python, pour approximer le phénomènne étudié.
+
+
+
+
+# 14 mars 2019:
+
+Cyrielle finit le calcul du CF par continent pour la deuxième approche et fait les recherches pour le calcul du FBCF. Il s'agit d'une partie difficile car il faut avoir des données non officielles (argent dépensés dans les travaux des habitants par an) avec des données officielles (nombre d'entreprises dans un continent et investissements faites par celles-ci).
