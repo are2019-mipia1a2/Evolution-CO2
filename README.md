@@ -29,3 +29,7 @@ Pour l'évolution de l'énergie, nous avons trouvé un tableau donnnant toutes l
 # 14 mars 2019:
 
 Cyrielle finit le calcul du CF par continent pour la deuxième approche et fait les recherches pour le calcul du FBCF. Il s'agit d'une partie difficile car il faut avoir des données non officielles (argent dépensés dans les travaux des habitants par an) avec des données officielles (nombre d'entreprises dans un continent et investissements faites par celles-ci).
+
+# 18 mars 2019
+
+Pour la population (Catherine), il reste à faire le graphique pour visualiser l'évolution de la population à l'année voulue.
