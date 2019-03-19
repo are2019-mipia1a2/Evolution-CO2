@@ -33,3 +33,6 @@ Cyrielle finit le calcul du CF par continent pour la deuxième approche et fait 
 # 18 mars 2019
 
 Pour la population (Catherine), il reste à faire le graphique pour visualiser l'évolution de la population à l'année voulue.
+
+# 19 mars 2019:
+La recherche des données pour le FBCF est faite et le programme fait. Les données pour le FBCF sont globales : il n'y a plus de distinctions entre particuliers et entreprises. Pour le calcul de VS les seules données trouvées sont par pays. Il faut donc les classer pour avoir une moyenne par continent et par habitant.
