@@ -37,4 +37,4 @@ Pour la population (Catherine), il reste à faire le graphique pour visualiser l
 # 19 mars 2019:
 La recherche des données pour le FBCF est faite et le programme fait. Les données pour le FBCF sont globales : il n'y a plus de distinctions entre particuliers et entreprises. Pour le calcul de VS les seules données trouvées sont par pays. Il faut donc les classer pour avoir une moyenne par continent et par habitant.
 
-Le code concernant l'évolution vient d'etre ajouté, il ne manque plus que le test qui se fera demain. Si celui-ci est concluant, on pourra passer l'approximation des parametres du programme.  
+Le code concernant la modélisation du CO2 vient d'etre ajouté, il ne manque plus que le test qui se fera demain. Si celui-ci est concluant, on pourra passer l'approximation des parametres du programme.  
