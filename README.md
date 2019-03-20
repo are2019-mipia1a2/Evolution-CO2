@@ -39,7 +39,7 @@ Le code concernant la modélisation du CO2 vient d'etre ajouté, il ne manque pl
 
 Pour le PIB : une 2ème approche a été faite, plus précise car elle se concentre sur chaque continent. Une régression linéaire pour les PIB par continent est en train d'être fait.
 
-Pour la population: des modifications ont été faites pour calculer la population dans chaque continent, avec la possibilité de faire varier les naissances, décès et si un problème survient pour chaque continent. La visualisation a été faite, cependant le code n'est pas fini pour les modifications.
+Pour la population: Des modifications ont été faites dans le code pour calculer la population dans chaque continent, avec la possibilité de faire varier les naissances, décès et si un problème survient pour chaque continent. Deux visualisations ont été faites : une à l'échelle mondiale et une autre à l'échelle continentale. Cette partie est finie sauf en cas de problème lors de la mise en commun avec les autres parties.
 
 Pour le TEP: Une régression linéaire a été faite pour tous les continents. De plus, nous avons vérifié la pertinence des résultats en comparants avec les estimations faites par une institution. Les résultats sont similaires, le modèle est donc viable.
 
