@@ -8,8 +8,6 @@ Modélisation des facteurs (population, énergie, CO2, PIB).
 Modélisation mondiale puis dans différentes régions, continents en prenant en compte le CO2 réellement produit et celui "importé".
 
 
-
-
 # 13 mars 2019:
 
 Nous nous sommes séparés le travail, chacun s'occupant d'un paramètre.
@@ -24,17 +22,22 @@ Pour l'évolution du CO2, deux modèles existent. Tahar fera des recherches plus
 Pour l'évolution de l'énergie, nous avons trouvé un tableau donnnant toutes les valeurs pour chaque région de l'énergie consommée. Etant donné l'absence de modèle accessible pour modéliser ce paramètre, nous avons convenu qu'il fallait programmer un modèle de régression linéaire sur python, pour approximer le phénomènne étudié.
 
 
-
-
 # 14 mars 2019:
 
 Cyrielle finit le calcul du CF par continent pour la deuxième approche et fait les recherches pour le calcul du FBCF. Il s'agit d'une partie difficile car il faut avoir des données non officielles (argent dépensés dans les travaux des habitants par an) avec des données officielles (nombre d'entreprises dans un continent et investissements faites par celles-ci).
 
 # 18 mars 2019
 
-Pour la population (Catherine), il reste à faire le graphique pour visualiser l'évolution de la population à l'année voulue.
+Pour la population (Catherine), il reste à faire le graphique pour visualiser l'évolution de la population à l'année voulue. La population pour chaque continent a été calculé mais le coefficient de la loi exponentielle est le même pour tous.
 
 # 19 mars 2019:
 La recherche des données pour le FBCF est faite et le programme fait. Les données pour le FBCF sont globales : il n'y a plus de distinctions entre particuliers et entreprises. Pour le calcul de VS les seules données trouvées sont par pays. Il faut donc les classer pour avoir une moyenne par continent et par habitant.
 
-Le code concernant la modélisation du CO2 vient d'etre ajouté, il ne manque plus que le test qui se fera demain. Si celui-ci est concluant, on pourra passer l'approximation des parametres du programme.  
+Le code concernant la modélisation du CO2 vient d'etre ajouté, il ne manque plus que le test qui se fera demain. Si celui-ci est concluant, on pourra passer l'approximation des parametres du programme. 
+
+# 20 mars 2019:
+
+Pour le PIB : une 2ème approche a été faite, plus précise car elle se concentre sur chaque continent. Une régression linéaire pour les PIB par continent est en train d'être fait.
+Pour la population: des modifications ont été faites pour calculer la population dans chaque continent, avec la possibilité de faire varier les naissances, décès et si un problème survient pour chaque continent. La visualisation a été faite, cependant le code n'est pas fini pour les modifications.
+Pour le TEP: Une régression linéaire a été faite pour tous les continents. De plus, nous avons vérifié la pertinence des résultats en comparants avec les estimations faites par une institution. Les résultats sont similaires, le modèle est donc viable.
+Pour le CO2: Le corps principal du programme est fini et a été comparé avec des données extérieures. Nous en avons conclue que le programme fonctionne. Nous avons aussi approximer deux paramètres du modèle par une régression linéaire (les émissions du CO2 et les utilisations des terres)
