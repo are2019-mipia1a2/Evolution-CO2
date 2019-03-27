@@ -51,6 +51,6 @@ Pour la population: Une autre visualisation a été faite à l'échelle mondiale
 
 Pour le PIB: La régression linéaire a été effectuée, on utilise cependant la 2ème approche (PIB/continent), c'est le meilleur modèle modèle des 3. Nous sommes en train de surperposer les deux modèles pour avoir le PIB par continent selon la population à l'année voulue.
 
-Pour le CO2: Après plusieurs tentatives pour linéariser certains paramètres par une régression à variable continue ou par une régression polynomiale, celles-ci sont incompatibles avec la réalité. Nous avons par ailleurs remarqué un problème avec les données initiales, celles-ci étant trop anciennes (étant une source tertiaire). En faisant des recherches plus approfondies, nous avons trouvé les données actualisées, plus complètes. Le programme est à modifier avec ces nouvelles données.
+Pour le CO2: Après plusieurs tentatives pour linéariser certains paramètres par une régression à variable continue ou par une régression polynomiale, celles-ci sont incompatibles avec la réalité. Nous avons par ailleurs remarqué un problème avec les données initiales, celles-ci étant trop anciennes (étant une source tertiaire). En faisant des recherches plus approfondies, nous avons trouvé les données actualisées, plus complètes et par pays. Le programme est à modifier avec ces nouvelles données.
 
 Pour le TEP: Nous avons fini la linéarisation du modèle avec l'année critique. 
