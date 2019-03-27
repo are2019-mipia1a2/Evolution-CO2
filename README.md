@@ -44,3 +44,13 @@ Pour la population: Des modifications ont été faites dans le code pour calcule
 Pour le TEP: Une régression linéaire a été faite pour tous les continents. De plus, nous avons vérifié la pertinence des résultats en comparants avec les estimations faites par une institution. Les résultats sont similaires, le modèle est donc viable.
 
 Pour le CO2: Le corps principal du programme est fini et a été comparé avec des données extérieures. Nous en avons conclue que le programme fonctionne. Nous avons aussi approximer deux paramètres du modèle par une régression linéaire (les émissions du CO2 et les utilisations des terres)
+
+# 27 mars 2019
+
+Pour la population: Une autre visualisation a été faite à l'échelle mondiale pour voir l'évolution de la population mondiale. 
+
+Pour le PIB: La régression linéaire a été effectuée, on utilise cependant la 2ème approche (PIB/continent), c'est le meilleur modèle modèle des 3. Nous sommes en train de surperposer les deux modèles pour avoir le PIB par continent selon la population à l'année voulue.
+
+Pour le CO2: Après plusieurs tentatives pour linéariser certains paramètres par une régression à variable continue ou par une régression polynomiale, celles-ci sont incompatibles avec la réalité. Nous avons par ailleurs remarqué un problème avec les données initiales, celles-ci étant trop anciennes (étant une source tertiaire). En faisant des recherches plus approfondies, nous avons trouvé les données actualisées, plus complètes. Le programme est à modifier avec ces nouvelles données.
+
+Pour le TEP: Nous avons fini la linéarisation du modèle avec l'année critique. 
