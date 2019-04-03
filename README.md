@@ -64,3 +64,7 @@ Pour la population, le programme global a été divisé en plusieurs programmes 
 Pour le PIB: Le programme du PIB a été combiné à la population. Il y a un programme pour l'évolution du PIB par continent, avec un graphique. Il y a également un programme pour l'évolution du PIB mondial avec un graphique.
 
 Popultaion et PIB: des tests sont faits pour voir l'impact d'une baisse de population.
+
+CO2: Nous avons finalisé le programme, soit appliquer la régression linéaire pour les paramètres, et nous pouvons maintenant connaître les émisssions dans le futur. Nous avons aussi essayé de comparer avec d'autres sources, et les résultats sont plutôt cohérents.
+
+TEP: Le programme est fini et oraganisé. Il reste à définir si une fonction annexe est à effectuer.
