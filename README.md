@@ -54,3 +54,11 @@ Pour le PIB: La régression linéaire a été effectuée, on utilise cependant l
 Pour le CO2: Après plusieurs tentatives pour linéariser certains paramètres par une régression à variable continue ou par une régression polynomiale, celles-ci sont incompatibles avec la réalité. Nous avons par ailleurs remarqué un problème avec les données initiales, celles-ci étant trop anciennes (étant une source tertiaire). En faisant des recherches plus approfondies, nous avons trouvé les données actualisées, plus complètes et par pays. Le programme est à modifier avec ces nouvelles données.
 
 Pour le TEP: Nous avons fini la linéarisation du modèle avec l'année critique. 
+
+# 3 avril 2019:
+
+Pour la population, le programme global a été divisé en plusieurs programmes (1 par continent) pour faciliter l'usage et la compréhension.
+
+Pour le PIB: Le programme du PIB a été combiné à la population. Il y a un programme pour l'évolution du PIB par continent, avec un graphique. Il y a également un programme pour l'évolution du PIB mondial avec un graphique.
+
+Popultaion et PIB: des tests sont faits pour voir l'impact d'une baisse de population.
