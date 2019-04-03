@@ -18,15 +18,29 @@ https://www.nature.com/articles/nclimate2384
 http://www.cnrs.fr/cw/dossiers/dosclim1/rechfran/4theme/retroactions.html
 http://cycleducarbone.ipsl.jussieu.fr/images/cyclecarbone/enseignants/premiermodele.pdf
 https://www.globalcarbonproject.org/carbonbudget/18/data.htm
-https://www.globalcarbonproject.org/carbonbudget/18/files/GCP_CarbonBudget_2018.pdf
 
 
 
 
 PIB : 
 Site de l'Insee
-Site de la banque mondiale
-Site de populationpyramid
+
+Site de la banque mondiale pour trouver le PIB, le FBCF, le VS:
+https://donnees.banquemondiale.org/indicator/NE.GDI.TOTL.KD?end=2017&name_desc=false&start=2016
+https://donnees.banquemondiale.org/indicator/NE.CON.PRVT.PC.KD
+https://donnees.banquemondiale.org/indicator/NE.GDI.STKB.CD?end=2017&start=2002
+https://donnees.banquemondiale.org/indicateur/NY.GDP.MKTP.CD?end=2017&start=1960&view=chart
+
+Site de Perspective Monde pour trouver les données 2016 manquantes sur le site de la banque mondiale:
+http://perspective.usherbrooke.ca/bilan/stats/0/2017/fr/2/carte/NE.GDI.FTOT.CD/x.html
+http://perspective.usherbrooke.ca/bilan/servlet/BMTendanceStatPays?codeTheme=2&codeStat=NE.GDI.STKB.CD&codePays=JPN&optionsPeriodes=Aucune&codeTheme2=2&codeStat2=x&codePays2=JPN&optionsDetPeriodes=avecNomP&langue=fr
+http://perspective.usherbrooke.ca/bilan/servlet/BMTendanceStatPays?codeTheme=2&codeStat=NE.GDI.STKB.CD&codePays=NZL&optionsPeriodes=Aucune&codeTheme2=2&codeStat2=x&codePays2=JPN&optionsDetPeriodes=avecNomP&langue=fr
+http://perspective.usherbrooke.ca/bilan/servlet/BilanEssai?codetheme=7&codeStat=NE.EXP.GNFS.CD&grandesRegions=0&anneeStat1=2016&codeStat2=x&mode=carte&afficheNom=aucun&langue=fr
+http://perspective.usherbrooke.ca/bilan/servlet/BilanEssai?codetheme=7&codeStat=NE.IMP.GNFS.CD&anneeStat1=2016&optionGraphique1=sans&logsUni=sansLogUni&codetheme2=2&codeStat2=x&couleurGraphique=Vert&taillePolices=11px&langue=fr&noStat=10
+
+Site de populationpyramid pour trouver les populations de chaque pays en 2017:
+Exemple: https://www.populationpyramid.net/fr/am%C3%A9rique-latine-et-caraibes/2017/
+Généralement : https://www.populationpyramid.net/fr/PAYS/2017/
 
 
 
