@@ -7,6 +7,8 @@ Modélisation des facteurs (population, énergie, CO2, PIB).
 
 Modélisation mondiale puis dans différentes régions, continents en prenant en compte le CO2 réellement produit et celui "importé".
 
+https://github.com/are2019-mipia1a2/Evolution-CO2/blob/master/Sources
+
 
 # 13 mars 2019:
 
