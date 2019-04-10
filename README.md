@@ -68,3 +68,16 @@ Popultaion et PIB: des tests sont faits pour voir l'impact d'une baisse de popul
 CO2: Nous avons finalisé le programme, soit appliquer la régression linéaire pour les paramètres, et nous pouvons maintenant connaître les émisssions dans le futur. Nous avons aussi essayé de comparer avec d'autres sources, et les résultats sont plutôt cohérents.
 
 TEP: Le programme est fini et oraganisé. Il reste à définir si une fonction annexe est à effectuer.
+
+# 10 avril 2019:
+Pour la population, le programme a été changé et les populations de 2010 à 2016 doivent être rajoutées.
+
+Pour le PIB, les données de 2010 à 2016 doivent être rajoutées grâce à la population de 2010 à 2016. Le même modèle est conservé avec les mêmes valeurs.
+
+Pour le TEP, la modélisation est finie et les données ne sont pas trouvées pour 2 continents. Il y a quand même les données pour l'approche mondiale.
+
+Pour le CO2, l'approche mondiale est faite et l'approche continentale est en cours.
+
+Le paramètre PIB/POP est modélisé à l'échelle continentale et mondiale.
+
+Le rapport a commencé à être tapé.
