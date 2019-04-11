@@ -76,8 +76,15 @@ Pour le PIB, les données de 2010 à 2016 doivent être rajoutées grâce à la 
 
 Pour le TEP, la modélisation est finie et les données ne sont pas trouvées pour 2 continents. Il y a quand même les données pour l'approche mondiale.
 
-Pour le CO2, l'approche mondiale est faite et l'approche continentale est en cours.
+Pour le CO2, l'approche mondiale est faite et l'approche continentale est en cours, terminée.
 
-Le paramètre PIB/POP est modélisé à l'échelle continentale et mondiale.
+Le paramètre PIB/POP est modélisé à l'échelle continentale et mondiale. En ce point, une première constation est faite que le PIB/POP semble diminuer de lui-même sur quelques modèles. Les tests apporteront la réponse mais il semblerait que cela soit dut à la croissance de la population plus rapide des pays ayant un PIB inférieur aux autres.
 
 Le rapport a commencé à être tapé.
+
+# 11 avril 2019:
+Les valeurs de 2010 à 2016 ont été ajoutées au programme de la population et du PIB.
+
+Le paramètre TEP/PIB est modélisé par continent et à l'achelle mondiale de même que le paramètre CO2/TEP.
+
+Une visulisation est faite pour chaque paramètre.
