@@ -1,11 +1,10 @@
 # Evolution-CO2
 Cyrielle Clastres - Catherine Yong -  Tahar Amairi - Thanh Liem Ta
 
-Evolution du CO2 dans le monde : la COP21 peut-elle être respectée et à quel prix ?
+Evolution du CO2 dans le monde : quels scénarios pour limiter le réchauffement climatique à 1,5 C ?  ?
 
-Modélisation des facteurs (population, énergie, CO2, PIB).
-
-Modélisation mondiale puis dans différentes régions, continents en prenant en compte le CO2 réellement produit et celui "importé".
+Modélisation de plusieurs paramètres (population mondial, consommation énergitique mondiale, émissions de CO2, PIB mondial).
+Modèle basé sur l'équation de KAYA. 
 
 https://github.com/are2019-mipia1a2/Evolution-CO2/blob/master/Sources
 
