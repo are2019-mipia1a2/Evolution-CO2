@@ -3,7 +3,7 @@ Cyrielle Clastres - Catherine Yong -  Tahar Amairi - Thanh Liem Ta
 
 Evolution du CO2 dans le monde : quels scénarios pour limiter le réchauffement climatique à 1,5 C ?  ?
 
-Modélisation de plusieurs paramètres (population mondial, consommation énergitique mondiale, émissions de CO2, PIB mondial).
+Modélisation de plusieurs paramètres (population mondiale, consommation énergitique mondiale, émissions de CO2, PIB mondial).
 
 Modèle basé sur l'équation de KAYA. 
 
